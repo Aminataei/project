@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e932322c-164c-40c1-85b3-147a21efe918" name="Default Changelist" comment="" />
+    <list default="true" id="e932322c-164c-40c1-85b3-147a21efe918" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shope.html" beforeDir="false" afterPath="$PROJECT_DIR$/shope.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +32,7 @@
     <config-path />
   </component>
   <component name="ProjectId" id="265szQaaPun8oXratUWOuCDzBsL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -47,7 +52,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration>$PROJECT_DIR$/../.subversion</configuration>
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,6 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1646725043435</updated>
       <workItem from="1646725046044" duration="5861000" />
+      <workItem from="1646807232729" duration="621000" />
     </task>
     <servers />
   </component>
@@ -68,7 +74,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
